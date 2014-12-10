@@ -1,0 +1,12 @@
+C:\Users\LICT\Desktop\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+C:\Users\LICT\Desktop\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe
+C:\Users\LICT\Desktop\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.pdb
+C:\Users\LICT\Desktop\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csprojResolveAssemblyReference.cache
+C:\Users\LICT\Desktop\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.Form1.resources
+C:\Users\LICT\Desktop\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.Properties.Resources.resources
+C:\Users\LICT\Desktop\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.GenerateResource.Cache
+C:\Users\LICT\Desktop\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.exe
+C:\Users\LICT\Desktop\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.pdb
+F:\AATICK\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+F:\AATICK\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.exe
+F:\AATICK\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.pdb
