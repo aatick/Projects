@@ -1,0 +1,17 @@
+C:\Users\FTFL2ndBatch\Desktop\AATICK\SampleConsoleProjectDay2\SampleConsoleProjectDay2\bin\Debug\SampleConsoleProjectDay2.exe.config
+C:\Users\FTFL2ndBatch\Desktop\AATICK\SampleConsoleProjectDay2\SampleConsoleProjectDay2\bin\Debug\SampleConsoleProjectDay2.exe
+C:\Users\FTFL2ndBatch\Desktop\AATICK\SampleConsoleProjectDay2\SampleConsoleProjectDay2\bin\Debug\SampleConsoleProjectDay2.pdb
+C:\Users\FTFL2ndBatch\Desktop\AATICK\SampleConsoleProjectDay2\SampleConsoleProjectDay2\obj\Debug\SampleConsoleProjectDay2.csprojResolveAssemblyReference.cache
+C:\Users\FTFL2ndBatch\Desktop\AATICK\SampleConsoleProjectDay2\SampleConsoleProjectDay2\obj\Debug\SampleConsoleProjectDay2.exe
+C:\Users\FTFL2ndBatch\Desktop\AATICK\SampleConsoleProjectDay2\SampleConsoleProjectDay2\obj\Debug\SampleConsoleProjectDay2.pdb
+E:\FTFL\SampleConsoleProjectDay2\SampleConsoleProjectDay2\bin\Debug\SampleConsoleProjectDay2.exe.config
+E:\FTFL\SampleConsoleProjectDay2\SampleConsoleProjectDay2\obj\Debug\SampleConsoleProjectDay2.exe
+E:\FTFL\SampleConsoleProjectDay2\SampleConsoleProjectDay2\obj\Debug\SampleConsoleProjectDay2.pdb
+E:\FTFL\SampleConsoleProjectDay2\SampleConsoleProjectDay2\bin\Debug\SampleConsoleProjectDay2.exe
+E:\FTFL\SampleConsoleProjectDay2\SampleConsoleProjectDay2\bin\Debug\SampleConsoleProjectDay2.pdb
+E:\FTFL\SampleConsoleProjectDay2\SampleConsoleProjectDay2\obj\Debug\SampleConsoleProjectDay2.csprojResolveAssemblyReference.cache
+C:\Users\bcc\Desktop\AATICK\SampleConsoleProjectDay2\SampleConsoleProjectDay2\bin\Debug\SampleConsoleProjectDay2.exe.config
+C:\Users\bcc\Desktop\AATICK\SampleConsoleProjectDay2\SampleConsoleProjectDay2\bin\Debug\SampleConsoleProjectDay2.exe
+C:\Users\bcc\Desktop\AATICK\SampleConsoleProjectDay2\SampleConsoleProjectDay2\bin\Debug\SampleConsoleProjectDay2.pdb
+C:\Users\bcc\Desktop\AATICK\SampleConsoleProjectDay2\SampleConsoleProjectDay2\obj\Debug\SampleConsoleProjectDay2.exe
+C:\Users\bcc\Desktop\AATICK\SampleConsoleProjectDay2\SampleConsoleProjectDay2\obj\Debug\SampleConsoleProjectDay2.pdb
