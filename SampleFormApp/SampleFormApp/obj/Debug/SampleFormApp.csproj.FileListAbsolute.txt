@@ -1,0 +1,9 @@
+F:\AATICK\SampleFormApp\SampleFormApp\bin\Debug\SampleFormApp.exe.config
+F:\AATICK\SampleFormApp\SampleFormApp\bin\Debug\SampleFormApp.exe
+F:\AATICK\SampleFormApp\SampleFormApp\bin\Debug\SampleFormApp.pdb
+F:\AATICK\SampleFormApp\SampleFormApp\obj\Debug\SampleFormApp.csprojResolveAssemblyReference.cache
+F:\AATICK\SampleFormApp\SampleFormApp\obj\Debug\SampleFormApp.Form1.resources
+F:\AATICK\SampleFormApp\SampleFormApp\obj\Debug\SampleFormApp.Properties.Resources.resources
+F:\AATICK\SampleFormApp\SampleFormApp\obj\Debug\SampleFormApp.csproj.GenerateResource.Cache
+F:\AATICK\SampleFormApp\SampleFormApp\obj\Debug\SampleFormApp.exe
+F:\AATICK\SampleFormApp\SampleFormApp\obj\Debug\SampleFormApp.pdb
