@@ -1,0 +1,6 @@
+C:\Users\FTFL2ndBatch\Desktop\AATICK\SampleConsoleProject\SampleConsoleProject\bin\Debug\SampleConsoleProject.exe.config
+C:\Users\FTFL2ndBatch\Desktop\AATICK\SampleConsoleProject\SampleConsoleProject\bin\Debug\SampleConsoleProject.exe
+C:\Users\FTFL2ndBatch\Desktop\AATICK\SampleConsoleProject\SampleConsoleProject\bin\Debug\SampleConsoleProject.pdb
+C:\Users\FTFL2ndBatch\Desktop\AATICK\SampleConsoleProject\SampleConsoleProject\obj\Debug\SampleConsoleProject.csprojResolveAssemblyReference.cache
+C:\Users\FTFL2ndBatch\Desktop\AATICK\SampleConsoleProject\SampleConsoleProject\obj\Debug\SampleConsoleProject.exe
+C:\Users\FTFL2ndBatch\Desktop\AATICK\SampleConsoleProject\SampleConsoleProject\obj\Debug\SampleConsoleProject.pdb

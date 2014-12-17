@@ -1,0 +1,6 @@
+F:\AATICK\SampleConsoleApp\SampleConsoleApp\bin\Debug\SampleConsoleApp.exe.config
+F:\AATICK\SampleConsoleApp\SampleConsoleApp\bin\Debug\SampleConsoleApp.exe
+F:\AATICK\SampleConsoleApp\SampleConsoleApp\bin\Debug\SampleConsoleApp.pdb
+F:\AATICK\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.csprojResolveAssemblyReference.cache
+F:\AATICK\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.exe
+F:\AATICK\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.pdb
