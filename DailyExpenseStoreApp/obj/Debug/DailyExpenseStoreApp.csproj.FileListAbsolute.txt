@@ -1,0 +1,10 @@
+F:\AATICK\DailyExpenseStoreApp\DailyExpenseStoreApp\bin\Debug\DailyExpenseStoreApp.exe.config
+F:\AATICK\DailyExpenseStoreApp\DailyExpenseStoreApp\bin\Debug\DailyExpenseStoreApp.exe
+F:\AATICK\DailyExpenseStoreApp\DailyExpenseStoreApp\bin\Debug\DailyExpenseStoreApp.pdb
+F:\AATICK\DailyExpenseStoreApp\DailyExpenseStoreApp\bin\Debug\CSVLib.dll
+F:\AATICK\DailyExpenseStoreApp\DailyExpenseStoreApp\obj\Debug\DailyExpenseStoreApp.csprojResolveAssemblyReference.cache
+F:\AATICK\DailyExpenseStoreApp\DailyExpenseStoreApp\obj\Debug\DailyExpenseStoreApp.DailyExpenseUI.resources
+F:\AATICK\DailyExpenseStoreApp\DailyExpenseStoreApp\obj\Debug\DailyExpenseStoreApp.Properties.Resources.resources
+F:\AATICK\DailyExpenseStoreApp\DailyExpenseStoreApp\obj\Debug\DailyExpenseStoreApp.csproj.GenerateResource.Cache
+F:\AATICK\DailyExpenseStoreApp\DailyExpenseStoreApp\obj\Debug\DailyExpenseStoreApp.exe
+F:\AATICK\DailyExpenseStoreApp\DailyExpenseStoreApp\obj\Debug\DailyExpenseStoreApp.pdb
