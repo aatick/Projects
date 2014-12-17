@@ -1,0 +1,9 @@
+E:\AddressBookApp\AddressBookApp\bin\Debug\AddressBookApp.exe.config
+E:\AddressBookApp\AddressBookApp\bin\Debug\AddressBookApp.exe
+E:\AddressBookApp\AddressBookApp\bin\Debug\AddressBookApp.pdb
+E:\AddressBookApp\AddressBookApp\bin\Debug\CSVLib.dll
+E:\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.AddressBookUI.resources
+E:\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.Properties.Resources.resources
+E:\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.csproj.GenerateResource.Cache
+E:\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.exe
+E:\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.pdb

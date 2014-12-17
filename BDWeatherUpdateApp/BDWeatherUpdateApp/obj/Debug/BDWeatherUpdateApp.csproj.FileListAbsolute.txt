@@ -1,0 +1,14 @@
+F:\BDWeatherUpdateApp\BDWeatherUpdateApp\bin\Debug\BDWeatherUpdateApp.exe.config
+F:\BDWeatherUpdateApp\BDWeatherUpdateApp\bin\Debug\BDWeatherUpdateApp.exe
+F:\BDWeatherUpdateApp\BDWeatherUpdateApp\bin\Debug\BDWeatherUpdateApp.pdb
+F:\BDWeatherUpdateApp\BDWeatherUpdateApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\BDWeatherUpdateApp\BDWeatherUpdateApp\bin\Debug\Newtonsoft.Json.dll
+F:\BDWeatherUpdateApp\BDWeatherUpdateApp\bin\Debug\EntityFramework.dll
+F:\BDWeatherUpdateApp\BDWeatherUpdateApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\BDWeatherUpdateApp\BDWeatherUpdateApp\bin\Debug\Newtonsoft.Json.xml
+F:\BDWeatherUpdateApp\BDWeatherUpdateApp\bin\Debug\EntityFramework.xml
+F:\BDWeatherUpdateApp\BDWeatherUpdateApp\obj\Debug\BDWeatherUpdateApp.WeatherUpdateUI.resources
+F:\BDWeatherUpdateApp\BDWeatherUpdateApp\obj\Debug\BDWeatherUpdateApp.Properties.Resources.resources
+F:\BDWeatherUpdateApp\BDWeatherUpdateApp\obj\Debug\BDWeatherUpdateApp.csproj.GenerateResource.Cache
+F:\BDWeatherUpdateApp\BDWeatherUpdateApp\obj\Debug\BDWeatherUpdateApp.exe
+F:\BDWeatherUpdateApp\BDWeatherUpdateApp\obj\Debug\BDWeatherUpdateApp.pdb
